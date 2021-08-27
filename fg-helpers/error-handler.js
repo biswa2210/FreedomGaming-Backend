@@ -1,3 +1,10 @@
+/*
+CREATED BY
+
+NAME: BISWARUP BHATTACHARJEE
+PH NO.: 6290272740
+EMAIL: bbiswa471@gmail.com
+*/
 function errorHandler(err, req, res, next) {
     if (err.name === 'UnauthorizedError') {
         // jwt authentication error
