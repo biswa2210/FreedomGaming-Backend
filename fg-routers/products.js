@@ -1,3 +1,10 @@
+/*
+CREATED BY
+
+NAME: BISWARUP BHATTACHARJEE
+PH NO.: 6290272740
+EMAIL: bbiswa471@gmail.com
+*/
 const { Product } = require('../fg-models/product');
 const express = require('express');
 const { Category } = require('../fg-models/category');
