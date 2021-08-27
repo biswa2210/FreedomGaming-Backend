@@ -24,6 +24,8 @@ I have made this FREEDOM-GAMING-BACKEND to work on my e-commerce grocery android
 
 </div>
 
+## URL :point_right: 
+
 ## About API :point_down: 
 
 <div align="justified">
@@ -164,13 +166,13 @@ We have used different urls to work diffent tasks. We have created different rou
 
 <div align="center">
 
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/register<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/register<br>
  REQUEST: POST<br>
  TASK: This url with this request is used to register in daily-deals-server.<br>
  
 <a href="pics/dd1.PNG"><img src="pics/dd1.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/login<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/login<br>
  REQUEST: POST<br>
  TASK: This url with this request is used to login in daily-deals-server and a bearer key comes in response which is used for further tasks as an admin user.<br>
  
@@ -178,7 +180,7 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd2.1.PNG"><img src="pics/dd2.1.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/users<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users<br>
  REQUEST: GET<br>
  TASK: This url with this request is used to get all users' details of daily-deals-server.<br>
  
@@ -186,7 +188,7 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd3.1.PNG"><img src="pics/dd3.1.PNG" width="800" height= "350"></a>
 
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/categories<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/categories<br>
  REQUEST: POST<br>
  TASK: This url with this request is used to add category in daily-deals-server.<br>
  
@@ -194,7 +196,7 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd4.1.PNG"><img src="pics/dd4.1.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/categories<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/categories<br>
  REQUEST: GET<br>
  TASK: This url with this request is used to get all categories of daily-deals-server.<br>
  
@@ -202,7 +204,7 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd5.1.PNG"><img src="pics/dd5.1.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/products<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products<br>
  REQUEST: POST<br>
  TASK: This url with this request is used to add product in daily-deals-server.<br>
  
@@ -210,7 +212,7 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd6.1.PNG"><img src="pics/dd6.1.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/products<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products<br>
  REQUEST: GET<br>
  TASK: This url with this request is used to get all products of daily-deals-server.<br>
  
@@ -220,7 +222,7 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd7.2.PNG"><img src="pics/dd7.2.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/products/gallery-images/:id<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/gallery-images/:id<br>
  REQUEST: PUT<br>
  TASK: This url with this request is used to add slider images of a product in daily-deals-server.<br>
  
@@ -228,31 +230,31 @@ We have used different urls to work diffent tasks. We have created different rou
  
 <a href="pics/dd8.1.PNG"><img src="pics/dd8.1.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/products/get/featured/:count<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/get/featured/:count<br>
  REQUEST: GET<br>
  TASK: This url with this request is used to get all featured products of daily-deals-server.<br>
  
 <a href="pics/dd9.PNG"><img src="pics/dd9.PNG" width="800" height= "350"></a> 
 
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/products/get/count<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/get/count<br>
  REQUEST: GET<br>
  TASK: This url with this request is used to get count of all products of daily-deals-server.<br>
  
 <a href="pics/dd10.PNG"><img src="pics/dd10.PNG" width="800" height= "350"></a> 
 
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/products/:id<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/:id<br>
  REQUEST: DEL<br>
  TASK: This url with this request is used to delete a product in daily-deals-server.<br>
  
 <a href="pics/dd11.PNG"><img src="pics/dd11.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/categories/:id<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/categories/:id<br>
  REQUEST: DEL<br>
  TASK: This url with this request is used to delete a category in daily-deals-server.<br>
  
 <a href="pics/dd12.PNG"><img src="pics/dd12.PNG" width="800" height= "350"></a> 
  
- URL: https://daily-deals-server-biswa2210.herokuapp.com/api/v1/users/:id<br>
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/:id<br>
  REQUEST: DEL<br>
  TASK: This url with this request is used to delete a user in daily-deals-server.<br>
  
