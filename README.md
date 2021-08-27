@@ -168,98 +168,109 @@ We have used different urls to work diffent tasks. We have created different rou
 
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/register<br>
  REQUEST: POST<br>
- TASK: This url with this request is used to register in daily-deals-server.<br>
+ TASK: This url with this request is used to register in freedom-gaming-backend.<br>
  
-<a href="pics/dd1.PNG"><img src="pics/dd1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg1.PNG"><img src="pics/fg1.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/login<br>
  REQUEST: POST<br>
- TASK: This url with this request is used to login in daily-deals-server and a bearer key comes in response which is used for further tasks as an admin user.<br>
+ TASK: This url with this request is used to login in freedom-gaming-backend and a bearer key comes in response which is used for further tasks as an admin user.<br>
  
-<a href="pics/dd2.PNG"><img src="pics/dd2.PNG" width="800" height= "350"></a> 
+<a href="pics/fg2.PNG"><img src="pics/fg2.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd2.1.PNG"><img src="pics/dd2.1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg2.1.PNG"><img src="pics/fg2.1.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users<br>
  REQUEST: GET<br>
- TASK: This url with this request is used to get all users' details of daily-deals-server.<br>
+ TASK: This url with this request is used to get all users' details of freedom-gaming-backend.<br>
  
-<a href="pics/dd3.PNG"><img src="pics/dd3.PNG" width="800" height= "350"></a> 
+<a href="pics/fg3.PNG"><img src="pics/fg3.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd3.1.PNG"><img src="pics/dd3.1.PNG" width="800" height= "350"></a>
+<a href="pics/fg3.1.PNG"><img src="pics/fg3.1.PNG" width="800" height= "350"></a>
 
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/categories<br>
  REQUEST: POST<br>
- TASK: This url with this request is used to add category in daily-deals-server.<br>
+ TASK: This url with this request is used to add category in freedom-gaming-backend.<br>
  
-<a href="pics/dd4.PNG"><img src="pics/dd4.PNG" width="800" height= "350"></a> 
+<a href="pics/fg4.PNG"><img src="pics/fg4.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd4.1.PNG"><img src="pics/dd4.1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg4.1.PNG"><img src="pics/fg4.1.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/categories<br>
  REQUEST: GET<br>
- TASK: This url with this request is used to get all categories of daily-deals-server.<br>
+ TASK: This url with this request is used to get all categories of freedom-gaming-backend.<br>
  
-<a href="pics/dd5.PNG"><img src="pics/dd5.PNG" width="800" height= "350"></a> 
+<a href="pics/fg5.PNG"><img src="pics/fg5.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd5.1.PNG"><img src="pics/dd5.1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg5.1.PNG"><img src="pics/fg5.1.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products<br>
  REQUEST: POST<br>
- TASK: This url with this request is used to add product in daily-deals-server.<br>
+ TASK: This url with this request is used to add product in freedom-gaming-backend.<br>
  
-<a href="pics/dd6.PNG"><img src="pics/dd6.PNG" width="800" height= "350"></a> 
+<a href="pics/fg6.PNG"><img src="pics/fg6.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd6.1.PNG"><img src="pics/dd6.1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg6.1.PNG"><img src="pics/fg6.1.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products<br>
  REQUEST: GET<br>
- TASK: This url with this request is used to get all products of daily-deals-server.<br>
+ TASK: This url with this request is used to get all products of freedom-gaming-backend.<br>
  
-<a href="pics/dd7.PNG"><img src="pics/dd7.PNG" width="800" height= "350"></a> 
+<a href="pics/fg7.PNG"><img src="pics/fg7.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd7.1.PNG"><img src="pics/dd7.1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg7.1.PNG"><img src="pics/fg7.1.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd7.2.PNG"><img src="pics/dd7.2.PNG" width="800" height= "350"></a> 
+<a href="pics/fg7.2.PNG"><img src="pics/fg7.2.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/gallery-images/:id<br>
  REQUEST: PUT<br>
- TASK: This url with this request is used to add slider images of a product in daily-deals-server.<br>
+ TASK: This url with this request is used to add slider images of a product in freedom-gaming-backend.<br>
  
-<a href="pics/dd8.PNG"><img src="pics/dd8.PNG" width="800" height= "350"></a> 
+<a href="pics/fg8.PNG"><img src="pics/fg8.PNG" width="800" height= "350"></a> 
  
-<a href="pics/dd8.1.PNG"><img src="pics/dd8.1.PNG" width="800" height= "350"></a> 
+<a href="pics/fg8.1.PNG"><img src="pics/fg8.1.PNG" width="800" height= "350"></a> 
+ 
+<a href="pics/fg8.2.PNG"><img src="pics/fg8.2.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/get/featured/:count<br>
  REQUEST: GET<br>
- TASK: This url with this request is used to get all featured products of daily-deals-server.<br>
+ TASK: This url with this request is used to get all featured products of freedom-gaming-backend.<br>
  
-<a href="pics/dd9.PNG"><img src="pics/dd9.PNG" width="800" height= "350"></a> 
+<a href="pics/fg9.PNG"><img src="pics/fg9.PNG" width="800" height= "350"></a> 
 
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/get/count<br>
  REQUEST: GET<br>
- TASK: This url with this request is used to get count of all products of daily-deals-server.<br>
+ TASK: This url with this request is used to get count of all products of freedom-gaming-backend.<br>
  
-<a href="pics/dd10.PNG"><img src="pics/dd10.PNG" width="800" height= "350"></a> 
+<a href="pics/fg10.PNG"><img src="pics/fg10.PNG" width="800" height= "350"></a> 
 
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/products/:id<br>
  REQUEST: DEL<br>
- TASK: This url with this request is used to delete a product in daily-deals-server.<br>
+ TASK: This url with this request is used to delete a product in freedom-gaming-backend.<br>
  
-<a href="pics/dd11.PNG"><img src="pics/dd11.PNG" width="800" height= "350"></a> 
+<a href="pics/fg11.PNG"><img src="pics/fg11.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/categories/:id<br>
  REQUEST: DEL<br>
- TASK: This url with this request is used to delete a category in daily-deals-server.<br>
+ TASK: This url with this request is used to delete a category in freedom-gaming-backend.<br>
  
-<a href="pics/dd12.PNG"><img src="pics/dd12.PNG" width="800" height= "350"></a> 
+<a href="pics/fg12.PNG"><img src="pics/fg12.PNG" width="800" height= "350"></a> 
  
  URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/:id<br>
- REQUEST: DEL<br>
- TASK: This url with this request is used to delete a user in daily-deals-server.<br>
+ REQUEST: GET<br>
+ TASK: This url with this request is used to get a user's profile in freedom-gaming-backend.<br>
  
-<a href="pics/dd13.PNG"><img src="pics/dd13.PNG" width="800" height= "350"></a> 
+<a href="pics/fg13.PNG"><img src="pics/fg13.PNG" width="800" height= "350"></a> 
   
+ URL: https://freedom-gaming-ipa.herokuapp.com/api/v1/users/profile/:id<br>
+ REQUEST: DEL<br>
+ TASK: This url with this request is used to delete a user in freedom-gaming-backend.<br>
+ 
+<a href="pics/fg13.PNG"><img src="pics/fg13.PNG" width="800" height= "350"></a> 
+ 
+These are some REQUESTS for categories, products, orders in freedom-gaming-backend, there are also other REQUESTS used for API designing.
+ 
+ 
 </div>
 
 
